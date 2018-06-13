@@ -69,3 +69,4 @@
   4.  Ci Server runs all tests
   5.  If all tests pass CI Server marks build as 'passing' and does optional followup
 - YAML or `yml` files
+- solve the puzzle
